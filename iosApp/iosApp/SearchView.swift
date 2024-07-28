@@ -82,7 +82,7 @@ struct SearchView: View {
           }
         }
       }
-      .navigationBarTitle("learn", displayMode: .inline)
+      .navigationBarTitle("Kodeco Learn", displayMode: .inline)
       .toolbar {
         MainToolbarContent()
       }

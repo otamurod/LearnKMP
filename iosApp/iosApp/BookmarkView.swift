@@ -32,7 +32,7 @@ struct BookmarkView: View {
           }
         }
       }
-      .navigationTitle("learn")
+      .navigationTitle("Kodeco Learn")
       .toolbar {
         MainToolbarContent()
       }

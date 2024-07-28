@@ -25,7 +25,7 @@ fun MainTopAppBar(
   CenterAlignedTopAppBar(
       title = {
         Text(
-            text = "learn"
+            text = "Kodeco Learn"
         )
       },
       actions = {

@@ -18,7 +18,7 @@ struct LatestView: View {
               Section(platform: item.first?.platform.value ?? key, entries: item)
             }
           }
-          .navigationBarTitle("learn", displayMode: .inline)
+          .navigationBarTitle("Kodeco Learn", displayMode: .inline)
           .toolbar {
             MainToolbarContent()
           }

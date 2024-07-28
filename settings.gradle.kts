@@ -7,7 +7,7 @@ pluginManagement {
   }
 }
 
-rootProject.name = "Learn KMP"
+rootProject.name = "LearnKMP"
 include(":androidApp")
 include(":desktopApp")
 

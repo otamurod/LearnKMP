@@ -37,6 +37,12 @@ android {
   }
 
   namespace = "com.kodeco.learn.shared"
+
+  packagingOptions {
+    resources {
+      excludes.add("META-INF/versions/9/previous-compilation-data.bin")
+    }
+  }
 }
 
 kotlin {

@@ -27,5 +27,5 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 
 # Kodeco Learn KMP APP Demo (Desktop, Android, iOS)
 
-https://youtu.be/yiMV5Ibvd8o
+[![Watch the video](https://img.youtube.com/vi/yiMV5Ibvd8o/0.jpg)](https://www.youtube.com/watch?v=yiMV5Ibvd8o)
 
